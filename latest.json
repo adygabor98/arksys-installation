@@ -1,11 +1,15 @@
 {
-  "version": "2.0.0",
-  "notes": "Arkaiv update «v2»",
+  "version": "1.0.0",
+  "notes": "Arkserve new version «v1»",
   "pub_date": "2024-12-18T09:55:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbms0bHN6ajlEbmZNTEdpMzlBZktPVjU4S2pVbm95c0g3c0NucVIzK2ZGTGNlWVVyenQwaFpoNld0UXJ6Ykk4L0tvVlFGcEluRjlpL3ZQanBxWFpRNHgxcnBSWitqUVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM0NjA1NjcwCWZpbGU6QXJrc2hpZnRfMi4wLjBfeDY0X2VuLVVTLm1zaQo5RUc0TFRNS0NDVmdRMUdtQjZ5NkxNRXhtbklxN1JTblNSTCtycWIyU21YNG5XVFJQU3dOU2dCMEcwOWIvK1hVV3k1b01mM1VTKzh5NkJBVmZhOFZEUT09Cg==",
-      "url": "https://github.com/adygabor98/arkserve-installation/releases/download/2.0.0/Arkshift_2.0.0_x64_en-US.msi"
+      "signature": "",
+      "url": ""
+    },
+    "darwin-x86_64": {
+      "signature": "",
+      "url": ""
     }
   }
 }
