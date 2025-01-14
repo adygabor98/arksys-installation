@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0",
-  "notes": "Arksys version «v1»",
+  "version": "2.0.0",
+  "notes": "Arksys version «v2»",
   "pub_date": "2025-01-14T09:55:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFg3NUpFZnFXdHhCeEdEclMrSCtzazQ4Q3lNRmo2VDlsOSt6WnF1MEdodnJTSXR0TWRCd2NMN1VTOWxKWVMwYktuMVEyYzhhMUpNM0pXbi8wWkRUdGxaeXJHK011eUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM2ODU3MDExCWZpbGU6QXJrc3lzXzEuMC4wX3g2NF9lbi1VUy5tc2kuemlwCjIvN20reitHYzZidVFFRjlwN2FoSE10dmtnWXVQc3lIU005TXNlTHdxUmV1OHl1aFpMSU1oN04zOERwNFkrYk5hWjAzeE5sRjdzWlhuR0w4QnRjb0NnPT0K",
-      "url": "https://github.com/adygabor98/arksys-installation/releases/download/1.0.0/Arksys_1.0.0_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbFg3NUpFZnFXdDBTdUUrT3pqcVlpZjd3Z2FCbFk1STViOGlUcXAwbFlwcXZ0elNIRGh2cDZDMlVlRlcrWXR1NGo3eGxkVmdHemlPN2RWcTdaTmhHNFBCVTVlQXNobEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM2ODU3NDYxCWZpbGU6QXJrc3lzXzIuMC4wX3g2NF9lbi1VUy5tc2kuemlwCkRybHZqU0VMZ0djVVd2Y1YzUm5XMmgrTUxYL0s1S3JwK0tud3U4aDZxZStoczRkWFVCOElDSTdEOVFsNWxvd016MVZldGxMVVYwdjFQRUJEQVVFSUN3PT0K",
+      "url": "https://github.com/adygabor98/arksys-installation/releases/download/2.0.0/Arksys_2.0.0_x64_en-US.msi.zip"
     }
   }
 }
